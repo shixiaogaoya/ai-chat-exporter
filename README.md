@@ -6,14 +6,14 @@
 
 | 平台 | 文件 | 网站 |
 |------|------|------|
-| Kimi | `platforms/kimi.js` | kimi.moonshot.cn |
-| 智谱清言 | `platforms/chatglm.js` | chatglm.cn |
-| 豆包 | `platforms/doubao.js` | doubao.com |
-| ChatGPT | `platforms/chatgpt.js` | chatgpt.com |
+| Kimi | `platforms/kimi.js` | www.kimi.com |
+| 智谱清言 | `platforms/chatglm.js` | www.chatglm.cn |
+| 豆包 | `platforms/doubao.js` | www.doubao.com |
+| ChatGPT | `platforms/chatgpt.js` | www.chatgpt.com |
 | DeepSeek | `platforms/deepseek.js` | chat.deepseek.com |
 | Claude | `platforms/claude.js` | claude.ai |
 | Gemini | `platforms/gemini.js` | gemini.google.com |
-| 通义千问 | `platforms/tongyi-qianwen.js` | www.qianwen.com / tongyi.aliyun.com |
+| 通义千问 | `platforms/tongyi-qianwen.js` | www.qianwen.com / www.qianwen.com|
 | Qwen Chat | `platforms/qwen-chat.js` | chat.qwen.ai |
 | Grok | `platforms/grok.js` | grok.x.ai / x.com |
 
