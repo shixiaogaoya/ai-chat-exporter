@@ -15,7 +15,7 @@
 | Gemini | `platforms/gemini.js` | gemini.google.com |
 | 通义千问 | `platforms/tongyi-qianwen.js` | www.qianwen.com / www.qianwen.com|
 | Qwen Chat | `platforms/qwen-chat.js` | chat.qwen.ai |
-| Grok | `platforms/grok.js` | grok.x.ai / x.com |
+| Grok | `platforms/grok.js` | https://grok.com |
 
 ## 使用方法
 
